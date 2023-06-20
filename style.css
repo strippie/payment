@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+    padding:0px;
+    }
+.type1{
+    width:30%;
+    display:block;
+    margin:0px auto;
+}
+.type2{
+    width:30%;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.icons{
+   display:inline;
+   padding:12px 16px;
+   background-color:black;
+   font-size: 25px;
+   font-weight: 500;
+   word-spacing: 5px ;
+
+}
+      
